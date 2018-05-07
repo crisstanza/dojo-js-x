@@ -17,7 +17,7 @@ https://crisstanza.github.io/dojo-js-x/
    - número inteiro
    - positivo
    - par e sua metade também deve ser par
-   - maior ou igual a 4 e menor ou igual a 10
+   - maior ou igual a 4 e menor ou igual a 32
 
 - Se ocorrer alguma infração das condiçōes acima, informar ao usuário o que houve
 
@@ -26,7 +26,7 @@ https://crisstanza.github.io/dojo-js-x/
   - O texto do botão passa a ser "recomeçar", e ao ser clicado, deve ocorrer um reload da pagina atual
   - Deve ser desenhada na tela uma tabela de tamanho NxN, onde N é o valor digitado no input
 
-- Nas 4 laterais da tabela devem existir botões, um para cada célula. Exemplo: se o valor digitado for 6, existirão 24 botões (N x 4). Os botões não possuem texto.
+- Nas 4 laterais externas da tabela devem existir botões, um para cada célula. Exemplo: se o valor digitado for 6, existirão 24 botões (N x 4). Os botões não possuem texto.
 
 - Cada célula da tabela deve ser exibida inicialmente de uma cor diferente, aleatória. O total de cores disponíveis é 4. O número de células de mesma cor deve ser igual. Exemplo: tabela de tamanho 4x4, deve ter 4 células de cada cor, aleatoriamente distribuídas
 
